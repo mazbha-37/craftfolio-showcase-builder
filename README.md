@@ -6,7 +6,6 @@ A portfolio/project showcase platform built with modern web technologies. This p
 
 **Live URL**: https://lovable.dev/projects/36281083-52da-4528-bd8c-2db27f0944d7
 
-**Repository**: [Your GitHub Repo URL]
 
 ---
 
